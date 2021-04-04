@@ -9,7 +9,7 @@ Nasza baza została przygotowana aby umożliwić pewnej sieci wypożyczalni film
 Baza umożliwia pracownikowi oraz klientom łatwy dostęp do wybranego filmu. Mogą oni w szybki sposób poznać szczegóły na temat konkretnego filmu takie jak jego tytuł, gatunek, język, długość, rok premiery, cenę jak i również jego reżysera. Baza umożliwia wyszukanie filmów w danym języku oraz gatunku co znacznie skraca czas wyboru pozycji filmowej przez osobę wypożyczającą. Następna część bazy dotyczy Pracowników, Klientów, placówek Wypożyczalni oraz Transakcji zawieranych z klientami. Pracownicy mogą dodawać do bazy filmów nowe pozycję oraz zapisywać dokonane Transakcje. W celu lepszego monitorowania różnorodności oferty kierownik może sprawdzić ile filmów znajduje się w danej kategorii cenowej tak aby oferowane filmy były dostępne zarówno dla "wyjadaczy filmowych" jak i "niedzielnych oglądaczy".Kierownik może również sprawdzić ile Pracowników jest w danej placówce oraz sprawdzić "Pracownika Miesiąca".
 
 ## Diagram relacji 
-https://github.com/krob2610/DVD-rental---database/blob/main/Diagram_relacji.jpg
+![]https://github.com/krob2610/DVD-rental---database/blob/main/Diagram_relacji.jpg
 
 
 ## Opis widoków
